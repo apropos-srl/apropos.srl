@@ -33,8 +33,9 @@
 ================================================
 */
 @import url('https://fonts.googleapis.com/css?family=Arimo:400,700|PT+Sans:400,700');
-/* 
-    font-family: 'Arimo', sans-serif;
+@import url('bespoke-sans.css');
+/*
+    font-family: 'BespokeSans-Variable', sans-serif;
     font-family: 'PT Sans', sans-serif;
 /*
 ================================================
@@ -54,7 +55,7 @@ body {
 	overflow-x: hidden;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Arimo', sans-serif;
+	font-family: 'BespokeSans-Variable', sans-serif;
 	margin-top: 0;
 	text-transform: none;
 	color: #002432;
@@ -244,7 +245,7 @@ section {
 .contact-button {
   font-size:16px;
   color:#787878;
-  font-family: 'Arimo', sans-serif;
+  font-family: 'BespokeSans-Variable', sans-serif;
   font-weight:700;
   padding:0 0 0 5px;
   margin:0 0 5px;
@@ -336,6 +337,7 @@ section {
 	z-index: 999;
 }
 .nav-bar {
+	font-family: 'BespokeSans-Variable', sans-serif;
 	width: 100%;
 	float: left;
 }
