@@ -29,11 +29,11 @@
 
 /*
 ================================================
-1. Fonts - Oswald and Opensans
+1. Fonts - Bespoke and PT Sans
 ================================================
 */
-@import url('https://fonts.googleapis.com/css?family=Arimo:400,700|PT+Sans:400,700');
 @import url('bespoke-sans.css');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
 /*
     font-family: 'BespokeSans-Variable', sans-serif;
     font-family: 'PT Sans', sans-serif;
