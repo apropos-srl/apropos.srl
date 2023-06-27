@@ -88,7 +88,7 @@ body, html {
 }
 .title h2:before {
 	content: "";
-	background: #128741;
+	background: #008289;
 	width: 4px;
 	height: 100%;
 	position: absolute;
@@ -157,7 +157,7 @@ section {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background: #128741;
+	background: #008289;
 	-webkit-transform: scaleY(0);
 	transform: scaleY(0);
 	-webkit-transform-origin: 50%;
@@ -213,7 +213,7 @@ section {
 	line-height: 35px;
 }
 #scrollUp i:hover {
-	color: #128741;
+	color: #008289;
 }
 /*
 ================================================
@@ -257,7 +257,7 @@ section {
 /*** Top Info ***/
 .top-info-block::before {
   background: #ffffff none repeat scroll 0 0;
-  border-left: 6px solid #128741;
+  border-left: 6px solid #008289;
   content: "";
   height: 100%;
   left: -35px;
@@ -298,7 +298,7 @@ section {
   z-index: 9999;
 }
 .top-info-block li i {
-	color: #128741;
+	color: #008289;
 	font-size: 30px;
 	height: 50px;
 	left: 0;
@@ -396,19 +396,19 @@ section {
 	background-color: inherit;
 }
 .navbar-default .navbar-nav li a:hover:after, .navbar-default .navbar-nav > .active > a:hover:after {
-	border-bottom: 2px solid #128741;
+	border-bottom: 2px solid #008289;
 	transform: translateX(-50%) scale(1);
 }
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
-	color: #128741;
+	color: #008289;
 }
 .menu-bg .navbar-default .navbar-nav li a {
 	transition: all 0.3s ease 0s;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
 	background-color: inherit;
-	color: #128741;
-	border-bottom: 2px solid #128741;
+	color: #008289;
+	border-bottom: 2px solid #008289;
 }
 /*
 ================================================
@@ -459,7 +459,7 @@ section {
 	color: #fff;
 }
 .hero p {
-  color: #128741;
+  color: #008289;
   font-size: 40px;
   font-weight: 600;
   letter-spacing: 1px;
@@ -567,7 +567,7 @@ section {
 	z-index: 20;
 }
 .welcome-control:hover, .welcome-control:focus {
-	color: #128741;
+	color: #008289;
 }
 /*
 ================================================
@@ -612,7 +612,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2d2d2', end
 .message-description p {
 	}
 .message-description i {
-  color: #128741;
+  color: #008289;
   font-size: 40px;
   margin: 0 0 15px;
 }
@@ -669,7 +669,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2d2d2', end
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
-	color: #128741;
+	color: #008289;
 }
 .our-service-wrapper .single-services:hover .icon i {
 	-webkit-transform: translateX(-250%);
@@ -723,7 +723,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2d2d2', end
 	position: absolute;
 	right: 0;
 	top: 50px;
-	border-color: #128741;
+	border-color: #008289;
 }
 .about-wrapper figure {
 	padding: 0 50px 50px 0;
@@ -761,7 +761,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2d2d2', end
 	width: 100%;
 }
 .about-wrapper .text ul li::before {
-	background-color: #128741;
+	background-color: #008289;
 	content: "";
 	display: inline-block;
 	float: left;
@@ -818,7 +818,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2d2d2', end
 	display: block;
 	font-size: 18px;
 	font-weight: 700;
-	color:#128741;
+	color:#008289;
 }
 .blog-wrapper .post-content a.blog-title:hover {
 	color: #002432;
@@ -843,7 +843,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2d2d2', end
 }
 .blog-wrapper .post-content .info li span {
 	padding-right: 4px;
-	color:#128741;
+	color:#008289;
 }
 /*
 ================================================
@@ -888,7 +888,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2d2d2', end
 }
 .our-team-img .textbox h5 {
 	padding-top: 80px;
-	color: #128741;
+	color: #008289;
 }
 .our-team-img .textbox p {
 	margin-bottom: 20px;
@@ -900,8 +900,8 @@ i.icon-border.size3 {
 	width: 30px;
 }
 i.icon-border {
-	border: 1px solid #128741;
-	color: #128741;
+	border: 1px solid #008289;
+	color: #008289;
 	margin: 0 3px;
 	text-align: center;
 	transition: all 0.3s ease 0s;
@@ -911,9 +911,9 @@ i.icon-border {
  	color: #fff;
 }
 i.icon-border:hover, i.icon-border:focus {
-	color: #128741;
-	background: #128741;
-	border: 1px solid #128741;
+	color: #008289;
+	background: #008289;
+	border: 1px solid #008289;
 }
 /*
 ================================================
@@ -949,14 +949,14 @@ i.icon-border:hover, i.icon-border:focus {
 }
 /*** testimonial text ***/
 .testimonial-text span.tst-sbtitle {
-	color: #128741;
+	color: #008289;
 	display: inline-block;
 	font-size: 16px;
 	font-weight: 400;
 	margin-bottom: 14px;
 }
 .testimonial-text span.tst-sbtitle {
-	color: #128741;
+	color: #008289;
 	display: inline-block;
 	font-size: 16px;
 	font-weight: 400;
@@ -967,7 +967,7 @@ i.icon-border:hover, i.icon-border:focus {
 	text-align: left;
 }
 .sec-title h3 span {
-	color: #128741;
+	color: #008289;
 	position: relative;
 }
 /*** Single Testimonial ***/
@@ -980,7 +980,7 @@ i.icon-border:hover, i.icon-border:focus {
 	margin-bottom: 10px;
 }
 .testimonial-item .inner:first-child {
-	border-right: 1px dashed #128741;
+	border-right: 1px dashed #008289;
 	margin-right: 20px;
 	padding-right: 20px;
 	position: relative;
@@ -998,7 +998,7 @@ i.icon-border:hover, i.icon-border:focus {
 	margin: 0 0 22px;
 }
 .testimonial-item h2 {
-	color: #128741;
+	color: #008289;
 	font-size: 22px;
 	margin-bottom: 5px;
 }
@@ -1007,7 +1007,7 @@ i.icon-border:hover, i.icon-border:focus {
 	margin-bottom: 0;
 }
 .testimonial-item .testimonial2-client-img img {
-	border-bottom: 2px solid #128741;
+	border-bottom: 2px solid #008289;
 	border-radius: 100%;
 	height: 60px;
 	width: 60px;
@@ -1033,8 +1033,8 @@ i.icon-border:hover, i.icon-border:focus {
 	right: 15px;
 }
 .testimonials-wrapper .owl-prev i, .testimonials-wrapper .owl-next i {
-	background: #128741;
-	border: 1px solid #128741;
+	background: #008289;
+	border: 1px solid #008289;
 	border-radius: 100%;
 	color: #ffffff;
 	font-size: 20px;
@@ -1115,7 +1115,7 @@ i.icon-border:hover, i.icon-border:focus {
 	top: 10px;
 	font-weight: 700;
 	-webkit-transition: all 0.6s;
-	color: #128741;
+	color: #008289;
 }
 .work-info i {
 	font-size: 14px;
@@ -1140,7 +1140,7 @@ i.icon-border:hover, i.icon-border:focus {
 	margin-bottom: 40px;
 }
 .portfolio-filter li:hover::before, .portfolio-filter li.active::before {
-	background-color: #128741;
+	background-color: #008289;
 	border-radius: 5px;
 	height: 100%;
 }
@@ -1171,7 +1171,7 @@ i.icon-border:hover, i.icon-border:focus {
 	font-weight: 600;
 }
 .portfolio-filter li:hover, .portfolio-filter li.active {
-	color: #128741;
+	color: #008289;
 }
 .portfolio-filter li:after {
 	position: absolute;
@@ -1246,7 +1246,7 @@ i.icon-border:hover, i.icon-border:focus {
 	color: #fff;
 }
 .contact-wrapper h2 span {
-	color: #128741;
+	color: #008289;
 }
 .contact-form .form-item {
 	background: rgba(50, 50, 50, 0.5) none repeat scroll 0 0;
@@ -1266,11 +1266,11 @@ i.icon-border:hover, i.icon-border:focus {
 	background: #fff;
 }
 .contact-form .btn-hero {
-	background: #128741;
+	background: #008289;
 	color: #fff;
 }
 .contact-form .btn-hero:hover {
-	color: #128741;
+	color: #008289;
 }
 .google-map {
 	filter: grayscale(1);
@@ -1320,7 +1320,7 @@ i.icon-border:hover, i.icon-border:focus {
 	margin-right: 10px;
 }
 .contact-info-main h4 {
-	color: #128741;
+	color: #008289;
 	float: left;
 	font-size: 20px;
 	margin: 0 0 15px;
@@ -1336,9 +1336,9 @@ i.icon-border:hover, i.icon-border:focus {
 	width: 100%;
 }
 .contact-info-main .social-links > a {
-	border: 1px solid #128741;
+	border: 1px solid #008289;
 	color: #fff;
-	background: #128741;
+	background: #008289;
 	float: left;
 	font-size: 15px;
 	height: 30px;
@@ -1350,7 +1350,7 @@ i.icon-border:hover, i.icon-border:focus {
 }
 .contact-info-main .social-links > a:hover {
 	border: 1px solid #fff;
-	color: #128741;
+	color: #008289;
 	background: #fff;
 }
 /*
@@ -1601,7 +1601,7 @@ header .navbar-nav {
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
 	border: none;
-	color: #128741 !important;
+	color: #008289 !important;
 }
 .navbar-header > h2 {
 	float: left;
@@ -1656,7 +1656,7 @@ header .navbar-nav {
 }
 .testimonials-wrapper .owl-theme .owl-dots .owl-dot.active span,
 .testimonials-wrapper .owl-theme .owl-dots .owl-dot:hover span  {
-	background:#128741;
+	background:#008289;
 }
 .testimonial-item .client-info {
 	position: relative;
